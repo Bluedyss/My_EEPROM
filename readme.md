@@ -54,7 +54,3 @@ eprom.clear();
 
 ## Example
 See `example.ino` for a full demonstration of how to use the library.
-
-## License
-This library is released under the MIT License.
-
